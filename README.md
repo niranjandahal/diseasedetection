@@ -1,14 +1,5 @@
 # Tomato Disease Detection Using Hybrid Deep Learning Model : https://diseasedetection.vercel.app/
 
-## Screenshot
-
-<img src="https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis01.jpg" width="300">
-
-<img src="https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis02.jpg" width="300">
-
-<img src="https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis03.jpg" width="300">
-
-
 
 ## Overview
 
@@ -79,7 +70,13 @@ Xampp
 2. in cmd type 'ipconfig' and get the 'IPv4 Address' and place it on the "cropdetectionsample/lib/localhosturl.dart"
 3. open xampp and start apache server then run your main.py then hit flutter run and make sure the laptop and mobile are on same wifi
    
+## Screenshot
 
+<img src="https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis01.jpg" width="300">
+
+<img src="https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis02.jpg" width="300">
+
+<img src="https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis03.jpg" width="300">
 
 
 ## Contributing

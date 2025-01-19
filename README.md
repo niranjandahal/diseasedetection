@@ -1,15 +1,12 @@
 # Tomato Disease Detection Using Hybrid Deep Learning Model
 
-![Tomato Disease Detection](https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis01.jpg)
+##Screenshot
 
-![Tomato Disease Detection](https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis02.jpg)
+<img src="https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis01.jpg" width="300">
 
-![Tomato Disease Detection](https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis03.jpg)
+<img src="https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis02.jpg" width="300">
 
-
-
-
-
+<img src="https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis03.jpg" width="300">
 
 
 

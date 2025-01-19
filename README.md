@@ -1,6 +1,6 @@
-# Tomato Disease Detection Using Hybrid Deep Learning Model
+# Tomato Disease Detection Using Hybrid Deep Learning Model : https://diseasedetection.vercel.app/
 
-##Screenshot
+## Screenshot
 
 <img src="https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis01.jpg" width="300">
 
